@@ -1,0 +1,5 @@
+﻿  glad.c
+  ParallelLight1.cpp
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  OpenGL.vcxproj -> D:\File\OpenGL\TestPull\OpenGL\x64\Debug\OpenGL.exe
+  OpenGL.vcxproj -> D:\File\OpenGL\TestPull\OpenGL\x64\Debug\OpenGL.pdb (Partial PDB)
